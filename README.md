@@ -10,6 +10,6 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
 ## <h2 align =" left">🕷️🕸️ My vibe in a nutshell </h2>
  <p align="left">
    • Currently learning Flutter, React Native, Rust, Kubernetes & Kafka <br>
-   • Passionate about Spring Boot, React, FastAPI, Flask, Django, Next.js, AWS, Oracle Cloud & PostgreSQL <br>
-   • Passionate about Backend, Cloud, DevOps, AI, and Open Source
+   • Exploring Spring Boot, React, FastAPI, Flask, Django, Next.js, AWS, Oracle Cloud & PostgreSQL <br>
+   • Experienced with Backend, Cloud, DevOps, AI, and Open Source
 </p>
