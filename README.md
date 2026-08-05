@@ -49,7 +49,7 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
 
 </p>
 
-  ## <h2 align ="left"> 🐾🪿 Abt Me </h2> 
+  ## <h2 align ="left"> 🕸️✨Abt Me ✨🕸️</h2> 
 
 
   
