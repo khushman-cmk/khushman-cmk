@@ -53,7 +53,6 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
 
 Every project teaches something new—whether it's writing cleaner code, improving performance, designing better user experiences, or learning how to collaborate effectively.
 
-I'm currently learning  Backend development with Spring Boot, FastAPI, Flask & Django and working with Frontend development using React & Next.js .Also Exploring Mobile development with Flutter & React Native Cloud and DevOps with AWS, Oracle Cloud, Docker & Kafka Databases including PostgreSQL Programming in Java, Python, JavaScript, C++, Rust & SQL
 
 My focus is on :
 
