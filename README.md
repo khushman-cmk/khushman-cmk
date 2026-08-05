@@ -15,9 +15,8 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
 </p>
   
  ## <h3 align =" left">⛓️⚒️ My Tool Kit </h3>
-
- 
-<p align="center">
+ ## <h4 align ="left"> </h4>
+  <p align="center">
 
   <img src="https://skillicons.dev/icons?i=java" /> 
   <img src="https://skillicons.dev/icons?i=python" />
