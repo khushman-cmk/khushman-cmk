@@ -1,4 +1,4 @@
-<h1 align="center"> 🕸️ ✨ нєℓℓσ , 𝐾ℎ𝑢𝑠ℎ𝑚𝑎𝑛   н𝑒𝑟𝑒  ✨🕸️ </h1>
+<h1 align="center"> 🕸️✨ нєℓℓσ , 𝐾ℎ𝑢𝑠ℎ𝑚𝑎𝑛   н𝑒𝑟𝑒  ✨🕸️ </h1>
 
 <p align="center">
   Aspiring Software Engineer • Cloud • Full Stack • Integrating APIs
@@ -7,9 +7,13 @@
 Building scalable applications, exploring cloud technologies, and turning ideas into products.
 </p>
 
-## <h2 align =" left">🕷️🕸️ My vibe in a nutshell </h2>
+## <h2 align =" left">🕷️🕸️ My Vibe in a Nutshell </h2>
  <p align="left">
    • Currently learning Flutter, React Native, Rust, Kubernetes & Kafka <br>
    • Exploring Spring Boot, React, FastAPI, Flask, Django, Next.js, AWS, Oracle Cloud & PostgreSQL <br>
    • Experienced with Backend, Cloud, DevOps, AI, and Open Source
 </p>
+  
+ ## <h3 align =" left">⛓️⚒️ My Tool Kit </h3>
+ <p align="left">
+ 
