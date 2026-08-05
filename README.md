@@ -49,23 +49,16 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
 
 </p>
 
-  ## <h2 align ="left"> 🕸️✨Abt Me ✨🕸️</h2> 
-I believe the best way to learn is by building.
+  ## <h2 align ="left"> 🕸️✨Abt Me ✨🕸️</h2> I believe the best way to learn is by building.
 
-Every project teaches something new—whether it's writing cleaner code, improving performance, designing better user experiences, or learning how to collaborate effectively.<br>
-I'm Working With
-Backend development with Spring Boot, FastAPI, Flask & Django
-Frontend development using React & Next.js
-Mobile development with Flutter & React Native
-Cloud and DevOps with AWS, Oracle Cloud, Docker & Kafka
-Databases including PostgreSQL
-Programming in Java, Python, JavaScript, C++, Rust & SQL 
-<BR> My focus is on : <br>
-Building scalable full-stack applications
-Exploring distributed systems and cloud-native architectures
-Learning Rust for systems programming
-Developing cross-platform mobile applications
-Improving software architecture and clean code practices
+Every project teaches something new—whether it's writing cleaner code, improving performance, designing better user experiences, or learning how to collaborate effectively.
+
+I'm currently learning  Backend development with Spring Boot, FastAPI, Flask & Django and working with Frontend development using React & Next.js .Also Exploring Mobile development with Flutter & React Native Cloud and DevOps with AWS, Oracle Cloud, Docker & Kafka Databases including PostgreSQL Programming in Java, Python, JavaScript, C++, Rust & SQL
+
+My focus is on :
+
+Building scalable full-stack applications Exploring distributed systems and cloud-native architectures Learning Rust for systems programming Developing cross-platform mobile applications Improving software architecture and clean code practices
+
 
   ## <h2 align =" center ">✨LETS CONNECT✨ </h2>
 <p align="center ">
