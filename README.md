@@ -11,7 +11,7 @@ Building scalable applications, exploring cloud technologies, and turning ideas 
  <p align="left">
    • Currently learning Flutter, React Native, Rust, Kubernetes & Kafka <br>
    • Exploring Spring Boot, React, FastAPI, Flask, Django, Next.js, AWS, Oracle Cloud & PostgreSQL <br>
-   • Experienced with Backend, Cloud, DevOps, AI, and Open Source
+   • passionate about Backend, Cloud, DevOps, AI, and Open Source
 </p>
   
  ## <h3 align =" left">⛓️⚒️ My Tool Kit </h3>
